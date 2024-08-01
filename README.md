@@ -1,9 +1,10 @@
 ## Welcome to my page 👋
 
-<p> I'm Mukul Ganwal and I am currently studying at Carnegie Mellon University as a masters student focusing on Robotics, Deep Learning and ML integration with automation. </p>
+<p> I'm Mukul Ganwal working as a perception engineer currently and I used to be at Carnegie Mellon University as a masters student focusing on Robotics, Deep Learning and ML integration with automation. </p>
 
 <p> I'm orignially from New Delhi, India and currently based out of Pittsburgh, Pennsylvania. </p>
 <ul>
+  <li> 🔭 I'm currently focused on Generative AI and 2D/3D instance segmentation methods </li>
   <li> ⚡ I'm interested in Computer Vision, Machine Learning and Controls. </li>
   <li> 🌱 I'm diving deep in the ML/Robotics with a focus in Automation and Robotic Integration. </li>
   <li> 🔭 I've have done internships as a Data Science Intern at PGP Glass Pvt. Ltd. and Maruti Suzuki India Limited.</li> 
