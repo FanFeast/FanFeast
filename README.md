@@ -7,7 +7,6 @@
   <li> 🔭 I'm currently focused on Generative AI and 2D/3D instance segmentation methods </li>
   <li> ⚡ I'm interested in Computer Vision, Machine Learning and Controls. </li>
   <li> 🌱 I'm diving deep in the ML/Robotics with a focus in Automation and Robotic Integration. </li>
-  <li> 🔭 I've have done internships as a Data Science Intern at PGP Glass Pvt. Ltd. and Maruti Suzuki India Limited.</li> 
 </ul>
 
 <p>  📫 How to reach me:  </p>
