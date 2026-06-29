@@ -1,11 +1,11 @@
 ## 👋 Welcome to my page
 
-<p>I'm <b>Mukul Ganwal</b>, currently working as a <b>Perception Engineer II</b> at <b>Anyware Robotics</b>, building large-scale vision systems for robotic automation. Previously, I completed my master's at <b>Carnegie Mellon University</b>, where I focused on robotics, deep learning, and real-world ML integration for automation.</p>
+<p>I'm <b>Mukul Ganwal</b>, currently a <b>Senior Perception Engineer &amp; Team Lead</b> at <b>Anyware Robotics</b>, where I lead a perception team building large-scale vision systems for robotic warehouse automation. Previously, I completed my master's at <b>Carnegie Mellon University</b>, where I focused on robotics, deep learning, and real-world ML integration for automation.</p>
 
 <ul>
-  <li>🔭 Currently building <b>robotic manipulation</b> and <b>end-to-end robotics perception/motion-planning models</b>.</li>
+  <li>🔭 Currently leading <b>real-time 2D/3D perception</b> for robotic palletizing and container/truck unloading — from <b>multi-camera 3D box detection</b> to <b>6-DoF pose estimation</b>.</li>
   <li>🧠 Exploring generative AI, foundation models, and active learning for visual perception.</li>
-  <li>⚙️ Experienced in ROS2, PyTorch, CUDA, and large-scale MLOps pipelines on GCP/AWS.</li>
+  <li>⚙️ Experienced in ROS2, PyTorch, TensorRT, CUDA, Open3D/PCL, and large-scale MLOps pipelines on GCP/AWS.</li>
   <li>🌱 Working toward becoming a Research Engineer focused on embodied and vision-language robotics.</li>
 </ul>
 
