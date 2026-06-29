@@ -39,15 +39,4 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" alt="Mukul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FanFeast&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanFeast&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p>
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=FanFeast&theme=tokyonight&hide_border=true&starting_year=2018" />
-</p>
-
 ## 🧩 Check out my [portfolio](https://fanfeast.github.io/)
