@@ -47,7 +47,7 @@
 </p>
 
 <p>
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=FanFeast&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=FanFeast&theme=tokyonight&hide_border=true&starting_year=2018" />
 </p>
 
 ## 🧩 Check out my [portfolio](https://fanfeast.github.io/)
