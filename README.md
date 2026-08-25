@@ -4,7 +4,6 @@
 
 <ul>
   <li>🔭 Leading <b>3D perception, camera systems, and learning-based perception</b> for robotic manipulation and palletizing.</li>
-  <li>⚡ Built a custom dual-head NMS-free segmentation model (<b>99.4 mAP@50</b>, <b>56ms → 7ms</b>) and a real-time 2D/3D pipeline powering <b>573 boxes/hour</b> throughput.</li>
   <li>🧠 Exploring generative AI, foundation models, and active learning for visual perception.</li>
   <li>📝 Co-inventor on a U.S. patent for multi-purpose robotic systems in warehouse automation.</li>
   <li>⚙️ Experienced in ROS2, PyTorch, CUDA, TensorRT, and large-scale MLOps pipelines on GCP/AWS.</li>
